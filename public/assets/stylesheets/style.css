@@ -1,0 +1,17 @@
+body{
+    background: rgb(0,0,255,0.1);
+}
+
+.row p{
+    font-size: 1.2rem;
+}
+
+.category{
+    font-size: 0.7rem !important;
+}
+
+.btn-small{
+    font-size: 0.5rem;
+    font-family: 'Girassol', cursive;
+}
+
